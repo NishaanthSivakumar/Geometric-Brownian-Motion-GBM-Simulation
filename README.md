@@ -22,9 +22,6 @@ Each notebook is self-contained and builds on the results of the previous one, f
 
 ## 📘 Notebook Overview
 
-### 00_intro_and_theory.ipynb
-Introduces the Geometric Brownian Motion model, including its stochastic differential equation, closed-form solution, and key assumptions. The theoretical motivation and known limitations of GBM in modelling financial markets are also discussed.
-
 ### 01_gbm_simulation.ipynb
 Implements Monte Carlo simulation of GBM price paths. The notebook validates theoretical properties such as the distribution of log-returns and the lognormality of terminal prices.
 
